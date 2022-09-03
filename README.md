@@ -1,9 +1,7 @@
 ### Hi there 👋
-#
+
 - :hammer: I’m currently working as a Full Stack Web Developer in Java and TypeScript.
-
 - 🌱 I’m currently learning microservices with Spring Cloud and Kubernetes.
-
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/kristoffer-pettersson3). That's the best way. I'm using [Gitlab](https://gitlab.com/KQT3) for most of my microservices projects.
 
 <!--
