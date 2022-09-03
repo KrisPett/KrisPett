@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
 - :hammer: I’m currently working as a Full Stack Web Developer in Java and TypeScript.
 - 🌱 I’m currently learning microservices with Spring Cloud and Kubernetes.
