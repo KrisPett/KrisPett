@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning microservices with Spring Cloud and Kubernetes
 <!--
 **KQT3/KQT3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
