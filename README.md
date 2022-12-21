@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-    <a href="https://github.com/kqt3/kqt3.github.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kqt3&show_icons=true&theme=transparent" />
-  </a>
-    <a href="https://github.com/kqt3/kqt3.github.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kqt3&layout=compact&theme=transparent" />
-  </a>
+    <a href="https://github.com/KQT3">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=kqt3&show_icons=true&theme=transparent" />
+    </a>
+    <a href="https://github.com/KQT3">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kqt3&layout=compact&theme=transparent" />
+    </a>
 </div>
 
 
