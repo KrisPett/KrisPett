@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!-- Dark Mode -->
+<br>
 <div align="center"> 
 <a href="#">
 <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kqt3&layout=compact&theme=transparent&line_height=28&card_width=250" alt="Rick Staa's Language stats" alt="Stats" />
