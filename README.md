@@ -21,13 +21,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
-    <a href="https://github.com/KQT3">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=kqt3&show_icons=true&theme=transparent" />
-    </a>
-    <a href="https://github.com/KQT3">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kqt3&layout=compact&theme=transparent" />
-    </a>
+
+<div align="center"> 
+<a href="https://github.com/KQT3">
+<img height=200 src="https://github-readme-stats.vercel.app/api?username=kqt3&show_icons=true&theme=transparent" alt="Stats" />
+</a>
+<a href="https://github.com/KQT3">
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kqt3&layout=compact&theme=transparent" alt="Stats" />
+</a>
 </div>
+
 
 
