@@ -30,6 +30,5 @@ Here are some ideas to get you started:
 <img height=200 src="https://github-readme-stats.vercel.app/api?username=kqt3&show_icons=true&theme=transparent" alt="Stats" />
 </a>
 </div>
-<br/>
 
 
