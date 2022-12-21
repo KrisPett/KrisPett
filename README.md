@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <!-- Dark Mode -->
 <div align="center"> 
 <a href="#">
-<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kqt3&layout=compact&theme=transparent&line_height=28&card_width=250" alt="Rick Staa's Language stats" alt="Stats" />
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kqt3&layout=compact&theme=transparent&line_height=28&card_width=350" alt="Rick Staa's Language stats" alt="Stats" />
 </a>
 <a href="#">
 <img height=200 src="https://github-readme-stats.vercel.app/api?username=kqt3&show_icons=true&theme=transparent&line_height=28&card_width=350" alt="Stats" />
