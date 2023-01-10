@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 <br>
 <div align="center"> 
 <a href="#">
-<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kqt3&layout=compact&theme=transparent&line_height=28&card_width=250e" alt="stats" alt="Stats" />
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kqt3&layout=compact&theme=transparent&line_height=28&card_width=250" alt="stats" alt="Stats" />
 </a>
 <a href="#">
-<img height=200 src="https://github-readme-stats.vercel.app/api?username=kqt3&show_icons=true&theme=transparent&line_height=28&card_width=450&include_all_commits=truee" alt="Stats" />
+<img height=200 src="https://github-readme-stats.vercel.app/api?username=kqt3&show_icons=true&theme=transparent&line_height=28&card_width=450&include_all_commits=true" alt="Stats" />
 </a>
 </div>
 <br>
