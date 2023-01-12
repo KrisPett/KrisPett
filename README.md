@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <br>
 <div align="center"> 
 <a href="#">
-<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kqt3&layout=compact&langs_count=10&hide_border=false&include_orgs=true&theme=transparent&line_height=28&card_width=250" alt="statss" alt="Stats" />
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kqt3&layout=compact&langs_count=10&hide_border=false&include_orgs=true&theme=transparent&line_height=28&card_width=350" alt="statss" alt="Stats" />
 </a>
 <a href="#">
 <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kqt3&show_icons=true&count_private=true&line_height=28&hide_border=false&card_width=450&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=transparent" alt="Statss" />
