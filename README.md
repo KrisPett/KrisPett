@@ -3,7 +3,7 @@
    <!-- I'm <a href="">Tony Robin</a>!  -->
 </h2>
 
-- :hammer: I’m currently working as a Full Stack Web Developer.
+- :hammer: I’m currently working as a Full Stack Developer.
 - 🌱 I’m currently learning Kubernetes / Devops.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/kristoffer-pettersson3).
 
