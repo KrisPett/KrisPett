@@ -3,8 +3,7 @@
    <!-- I'm <a href="">Tony Robin</a>!  -->
 </h2>
 
-- 🌱 I believe reading and learning from open-source projects is best practice.I believe reading and learning from open-source projects is best practice.
-
+🌱 I believe reading and learning from open-source projects is best practice.I believe reading and learning from open-source projects is best practice.
 
 <!--
 **KQT3/KQT3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
