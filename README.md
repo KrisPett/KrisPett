@@ -3,9 +3,7 @@
    <!-- I'm <a href="">Tony Robin</a>!  -->
 </h2>
 
-#- 🌱 I'm a passionate Full Stack Developer, always striving to learn and grow. Currently, I'm diving deep into the world of Kubernetes and DevOps to enhance my skills and knowledge.
-#- 📫 Feel free to connect with me or explore my repositories to see what I'm working on. Let's collaborate and create something awesome together!
-- I believe reading and learning from open-source projects is best practice.I believe reading and learning from open-source projects is best practice.
+- 🌱 I believe reading and learning from open-source projects is best practice.I believe reading and learning from open-source projects is best practice.
 
 
 <!--
