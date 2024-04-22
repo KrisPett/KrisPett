@@ -2,8 +2,8 @@
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
    <!-- I'm <a href="">Tony Robin</a>!  -->
 </h2>
-
-🌱 I believe reading and learning from open-source projects is best practice.I believe reading and learning from open-source projects is best practice.
+<div align="center">🌱</div>
+<div align="center">I believe reading and learning from open-source projects is best practice.</div>
 
 <!--
 **KQT3/KQT3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
