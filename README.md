@@ -3,7 +3,7 @@
    <!-- I'm <a href="">Tony Robin</a>!  -->
 </h2>
 <div align="center">🌱</div>
-<div align="center">I believe reading and learning from open-source projects is best practice.</div>
+<div align="center">I believe reading and learning from open-source is best practice.</div>
 
 <!--
 **KQT3/KQT3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
